@@ -1,0 +1,27 @@
+# UI
+streamlit
+
+# Audio input (YouTube download) and local transcription
+yt-dlp
+openai-whisper
+torch
+pydub
+
+# LangChain (LCEL) with Groq LLM
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+
+# RAG: ChromaDB + HuggingFace embeddings
+chromadb
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+
+# Export results as PDF / TXT
+fpdf2
+
+# Environment variables (GROQ_API_KEY)
+python-dotenv
