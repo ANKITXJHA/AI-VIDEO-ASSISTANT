@@ -4,8 +4,8 @@ Turn any video or audio file into a transcript, summary, action items, key decis
 
 ## Demo
 
-<!-- Add your demo video link here -->
-
+[<!-- Add your demo video link here -->
+](https://www.linkedin.com/posts/ankitjha21_ai-machinelearning-langchain-ugcPost-7521433817665056768-8s9R/?highlightedUpdateUrn=urn%3Ali%3AugcPost%3A7521433817665056768&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIioswB0tx3wF9xEcbdRnvf1FE6dSHuWA4)
 ## Features
 
 - Transcription with local Whisper (English, Hindi, and Hinglish translated to English)
